@@ -2,7 +2,7 @@
 
 ## Part 1: Scraping
 
-In this part, I used [Jupyter Notebook](/Mission_to_Mars/mission_to_mars.ipynb) to the following websites:
+In this part, I used [Jupyter Notebook](/Mission_to_Mars/mission_to_mars.ipynb) to scrape the following websites:
 - [Nasa Mars News](https://redplanetscience.com/)
 - [JPL Mars Space Images—Featured Image](https://spaceimages-mars.com/)
 - [Mars Facts](https://galaxyfacts-mars.com/)
