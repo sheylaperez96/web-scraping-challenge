@@ -16,6 +16,6 @@ In this part, I used MongoDB with Flask to create a new HTML page that displays 
 
 Materials:
 - [Scrape_mars.py](/Mission_to_Mars/scrape_mars.py) is the python version of the jupyter notebook code, which uses a function called scrape.
-- [app.py](/Mission_to_Mars/app.py) runs the flask app. This stores all of the scraped values into Mongo DB as a dictionary and also passes the data into an [HTML template](/Mission_to_Mars/index.html). 
+- [app.py](/Mission_to_Mars/app.py) runs the flask app. This stores all of the scraped values into Mongo DB as a dictionary and also passes the data into an [HTML template](/Mission_to_Mars/templates/index.html). 
 
 
