@@ -8,7 +8,7 @@ In this part, I used [Jupyter Notebook](/Mission_to_Mars/mission_to_mars.ipynb) 
 - [Mars Facts](https://galaxyfacts-mars.com/)
 - [Mars Hemispheres](https://marshemispheres.com/)
 
- The results were saved in different variables, as well as in the following [html table](/Mission_to_Mars/table.html).
+ One of the results was saved in the following [html table](/Mission_to_Mars/table.html). The other results were saved as different variables.
 
 ## Part 2: MongoDB and Flask Application
 
@@ -17,4 +17,5 @@ In this part, I used MongoDB with Flask to create a new HTML page that displays 
 Materials:
 - [Scrape_mars.py](/Mission_to_Mars/scrape_mars.py) is the python version of the jupyter notebook code, which uses a function called scrape.
 - [app.py](/Mission_to_Mars/app.py) runs the flask app. This stores all of the scraped values into Mongo DB as a dictionary and also passes the data into an [HTML template](/Mission_to_Mars/index.html). 
+
 
